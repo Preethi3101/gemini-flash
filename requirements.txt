@@ -6,5 +6,5 @@ tiktoken
 numpy
 pandas
 nltk
-
+openpyxl
 google-generativeai
